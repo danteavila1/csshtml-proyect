@@ -1,0 +1,29 @@
+* {
+    /*border: 2px solid red;*/
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.header1 {
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(57, 58, 58);
+}
+
+.item {
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    font-size: small;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+}
